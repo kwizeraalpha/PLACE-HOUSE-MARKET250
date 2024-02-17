@@ -1,0 +1,19 @@
+
+    
+        {
+         "name": "Flowery Branch Beauty",
+         "type": "sale",
+         "userRef":"ID OF A USER",
+         "bedrooms":"4",
+         "bathrooms":"3",
+         "parking": "true",
+         "furnished":"false",
+         "offer":"false",
+         "regularPrice":"650000",
+         "location":"517 High Ridge St Flowery Branch, GA 30542",
+         "geolocation":{
+            "lat": "34.1851",
+            "lng": "-83.9252"
+         }
+        }
+    
